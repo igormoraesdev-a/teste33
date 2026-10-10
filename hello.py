@@ -1,1 +1,2 @@
-print('hello git e VSCode')
+mensagem = "Hellow git"
+print(mensagem)
